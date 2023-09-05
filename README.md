@@ -1,16 +1,25 @@
-### Hi there 👋
+# About Me
 
-<!--
-**noracmps/noracmps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Nora Campos, a passionate software engineering student on a journey to master the exciting world of programming. Here's a bit more about me:
 
-Here are some ideas to get you started:
+## My Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Currently, I'm focused on learning programming languages: **CSS**, **C#** and **JavaScript**. I'm fascinated by how these languages can be used to create applications both on the server and client sides, and I'm excited about the opportunities they offer.
+
+- **Software Engineering:** I'm studying software engineering at Universidad Autónoma de Occidente. My goal is to deeply understand the principles and practices of software engineering to develop efficient, high-quality software solutions.
+
+## My Background
+
+Before embarking on my software engineering journey, I was a chemical engineering student. However, I decided to change paths because what truly ignited my passion was the world of programming. 
+
+## What Inspires Me
+
+What inspires me the most in the world of programming is the ability to create practical solutions for real-world problems. I'm thrilled about the opportunity to work on challenging projects and collaborate with fellow developers to build innovative software that makes a difference.
+
+## Contact
+
+I'd love to connect with you and learn alongside the programming community! If you'd like to discuss programming, exchange ideas, or just chat, feel free to reach out to me at noralizethcamm@gmail.com
+
+Thanks for visiting my profile! I'm excited about what the future holds for me in my learning journey in C# and JavaScript as I advance in my software engineering career.
+
+
